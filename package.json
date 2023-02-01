@@ -1,0 +1,25 @@
+{
+    "name": "aajsbs",
+    "version": "1.0.0",
+    "description": "Curso Basico De JavaScript Platzi.",
+    "main": "1-valores.js",
+    "scripts": {
+        "start": "node src/index.js ",
+        "varjs": "node src/var.js",
+        "arrmetho": "node src/arrmetho.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kalixt044/AAJSBS.git"
+    },
+    "author": "Aprendiz Digital Sena I. J. Gallardo Navarro",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kalixt044/AAJSBS/issues"
+    },
+    "homepage": "https://github.com/Kalixt044/AAJSBS#readme",
+    "dependencies": {
+        "cowsay": "^1.5.0",
+        "eslint": "^8.33.0"
+    }
+}
