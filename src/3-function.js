@@ -3,9 +3,8 @@
 // Tenemos dos tipo de funciones en js, function Declaration y function Expression 
 
 // el nombre reservado de function y parametros que recibira esa function 
-
-function miFuncion() { // function declaration Declarativas expresión 
-    return 3; 
+// function declaration Declarativas expresión 
+function miFuncion() {    return 3; 
 }
 
 miFuncion(); // mandamos llamar la funcion
