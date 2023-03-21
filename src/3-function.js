@@ -18,9 +18,9 @@ miFuncion(); // mandamos llamar la variable como funcion
 
 /* ============================= */
 
-
+// template strings (Plantillas de cadena de texto)
 function saludarEstudiante(estudiante) {
-    console.log(`Hola ${estudiante}`);  // template strings (Plantillas de cadena de texto)
+    console.log(`Hola ${estudiante}`);  
 }
 
 
